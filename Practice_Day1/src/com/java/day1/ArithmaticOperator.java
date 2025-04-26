@@ -11,6 +11,7 @@ public class ArithmaticOperator {
 		System.out.println("Subtraction : " + (a-b));
 		System.out.println("Division : " + (c/a));
 		System.out.println("Remainder : " + (b%a));
+		System.out.println("Multiplication : " + (a*b*c));
 	}
 
 }
